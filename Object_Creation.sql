@@ -8,10 +8,10 @@
 use master
 go
 
-create database localmarket
+create database tempSchema
 go
 
-use localmarket
+use tempSchema
 go
 
 create table Customer(
